@@ -30,7 +30,7 @@ It includes simple pages like Home, About, and Contact with a clean and structur
 
 ## 🚀 Live Website
 
-👉 https://yourusername.github.io/repo-name/
+👉 https://shahvidhi06.github.io/portfolio/
 
 ---
 
